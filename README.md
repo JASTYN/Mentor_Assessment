@@ -2,7 +2,7 @@
 
 
 
-This application is deployed on heroku. To checkout this application visit this link https://blooggapp.herokuapp.com/
+This application is deployed on heroku. To checkout this application visit this link https://moringaassessment.herokuapp.com/
 
 **To setup the project on your local machine:**
 

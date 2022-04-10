@@ -89,7 +89,6 @@ pyrsistent==0.18.0
 PySide6==6.2.2.1
 python-dateutil==2.8.2
 pytz==2019.2
-pywinpty==1.1.5
 pyxll==5.3.1
 pyxll-jupyter==0.3.0
 pyzmq==22.3.0
